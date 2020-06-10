@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Doodle  Eats</string>
+    <string name="show_more"><u>Show More</u></string>
+    <string name="my_cart">My Cart</string>
+    <string name="total_cost">Total cost</string>
+    <string name="_0">₹ 0</string>
+    <string name="review_orders">Review orders</string>
+    <string name="place_order">Place order</string>
+    <string name="dine_in">Dine-In</string>
+    <string name="take_way">Take way</string>
+    <string name="kritunga_restaurant">Kritunga Restaurant</string>
+    <string name="_5_0_200">5.0 (200+)</string>
+    <string name="all_days_09_00_am_06_00_pm">All days : 09:00 AM - 06:00 PM</string>
+    <string name="reach_us_at_9854562142">Reach us at : 9854562142</string>
+    <string name="book_a_table">Book A table</string>
+    <string name="starters">Starters</string>
+    <string name="view_cart">View cart</string>
+    <string name="_0_item">0 ITEMS</string>
+    <string name="add">Add</string>
+</resources>
